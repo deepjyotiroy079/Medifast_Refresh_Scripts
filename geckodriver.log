@@ -1,0 +1,80 @@
+1663178622579	geckodriver	INFO	Listening on 127.0.0.1:60680
+1663178624595	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60681" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\esummers\\AppData\\Local\\Temp\\3\\rust_mozprofileXbWPi5"
+1663178625315	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\esummers\\AppData\\Local\\Temp\\3\\rust_mozprofileXbWPi5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60681/devtools/browser/18ccfc1b-a8af-4b9e-aa1e-c32980c1b78a
+1663178626604	Marionette	INFO	Listening on port 60703
+Read port: 60703
+1663178626662	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.nice.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=758149421, line 1: unreachable code after return statement
+JavaScript warning: https://www.nice.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=758149421, line 1: unreachable code after return statement
+JavaScript warning: https://www.nice.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=758149421, line 1: unreachable code after return statement
+JavaScript warning: https://www.nice.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=758149421 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.nice.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=758149421 line 1 > eval, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://na1.nice-incontact.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://na1.nice-incontact.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://na1.nice-incontact.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1663178690718	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://na1.nice-incontact.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1121: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+1663178813445	Marionette	INFO	Stopped listening on port 60703
+1663178852799	geckodriver	INFO	Listening on 127.0.0.1:60837
+1663178854815	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60838" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\esummers\\AppData\\Local\\Temp\\3\\rust_mozprofileUIXtI6"
+1663178855175	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\esummers\\AppData\\Local\\Temp\\3\\rust_mozprofileUIXtI6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60838/devtools/browser/a73a3f70-de93-4f80-848a-dc8290ec67fa
+1663178856369	Marionette	INFO	Listening on port 60859
+Read port: 60859
+1663178856451	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.nice.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1409473295, line 1: unreachable code after return statement
+JavaScript warning: https://www.nice.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1409473295, line 1: unreachable code after return statement
+JavaScript warning: https://www.nice.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1409473295, line 1: unreachable code after return statement
+JavaScript warning: https://www.nice.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1409473295 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.nice.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1409473295 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1663188175884	Marionette	INFO	Stopped listening on port 60859
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "localhost" "-no-remote" "-profile" "C:\\Users\\esummers\\AppData\\Local\\Temp\\3\\rust_mozprofileTe33WQ"
+1663178952498	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\esummers\\AppData\\Local\\Temp\\3\\rust_mozprofileTe33WQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60961/devtools/browser/9fdcda8e-48c2-4f48-94d0-edcf173f4094
+1663178953522	Marionette	INFO	Listening on port 60982
+Read port: 60982
+1663178953576	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.nice.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=768809237, line 1: unreachable code after return statement
+JavaScript warning: https://www.nice.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=768809237, line 1: unreachable code after return statement
+JavaScript warning: https://www.nice.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=768809237 line 1 > eval, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://na1.nice-incontact.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://na1.nice-incontact.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://na1.nice-incontact.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1663179404633	Marionette	INFO	Stopped listening on port 60982
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+ts, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\esummers\\AppData\\Local\\Temp\\3\\rust_mozprofileyycoPG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61173/devtools/browser/b4a68de6-9877-414f-8334-72528beb72e2
+1663179399921	Marionette	INFO	Listening on port 61194
+Read port: 61194
+1663179400024	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.nice.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1691361212, line 1: unreachable code after return statement
+JavaScript warning: https://www.nice.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1691361212, line 1: unreachable code after return statement
+JavaScript warning: https://www.nice.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1691361212, line 1: unreachable code after return statement
+JavaScript warning: https://www.nice.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1691361212 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.nice.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1691361212 line 1 > eval, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://na1.nice-incontact.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://na1.nice-incontact.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://na1.nice-incontact.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://na1.nice-incontact.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1121: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+1663179589149	Marionette	INFO	Stopped listening on port 61194
